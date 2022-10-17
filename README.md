@@ -31,8 +31,8 @@ The following dependencies are necessary to run this application:
 
 
 # Usage
-Simply run the commant ```npm run start``` from your CLI or Terminal.
-The application should be listining on ```http://localhost:3000/```, which you can access in your preffered browser.
+Simply run the command ```npm run start``` from your CLI or Terminal.
+The application should be listening on ```http://localhost:3000/```, which you can access in your preffered browser.
 
 # Screenshots
 
